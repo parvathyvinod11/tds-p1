@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+myenv/
+.myenv/
+
+# Environment / secret files
+.env
+
+# Test or temporary scripts
+.test_github.py
+
+# IDE / editor specific files (optional but recommended)
+.vscode/
+.idea/
